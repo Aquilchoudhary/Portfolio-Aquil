@@ -35,7 +35,7 @@ h2 {
     font-size: 130%;
 }
 .upper {
-    background-color: lightseagreen;
+    background-color: #A5FF33;
 }
 .img-container {
     text-align: center;
@@ -49,13 +49,13 @@ h2 {
         padding-bottom: 5rem;
 }
 .head2 {
-    color: lightseagreen;
+    color: #A5FF33;
 }
 .tab2 {
     text-decoration: none;
     color: white;
     border-radius: 0.5rem;
-    background-color: lightseagreen;
+    background-color: #A5FF33;
     padding-left: 0.5rem;
     padding-right: 0.5rem;
     padding-top: 0.1rem;
@@ -93,7 +93,7 @@ h2 {
     padding-right: 2rem;
 }
 .foot {
-    background-color: lightseagreen;
+    background-color: #A5FF33;
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
 }

@@ -29,7 +29,7 @@ h2 {
     font-size: 130%;
 }
 .upper {
-    background-color: lightseagreen;
+    background-color: #33FFFF;
 }
 .head { font-weight: bold;
     color: grey;
@@ -61,7 +61,7 @@ color: lightseagreen;
     text-decoration: none;
     color: white;
     border-radius: 0.5rem;
-    background-color: lightseagreen;
+    background-color: #33FFFF;
     padding-left: 0.5rem;
     padding-right: 0.5rem;
     padding-top: 0.1rem;
@@ -83,7 +83,7 @@ color: lightseagreen;
     padding-right: 2rem;
     }
     .foot {
-    background-color: lightseagreen;
+    background-color: #33FFFF;
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
     }

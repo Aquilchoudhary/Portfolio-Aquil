@@ -29,7 +29,7 @@ h2 {
     font-size: 130%;
 }
 .upper {
-    background-color: lightseagreen;
+    background-color: #FF8633;
 }
 .head { font-weight: bold;
     color: grey;
@@ -38,7 +38,7 @@ h2 {
     padding-bottom: 5rem;
 }
 .head2 {
-color: lightseagreen;
+color: #FF8633;
 }
 
 .section1 {
@@ -65,7 +65,7 @@ color: grey;
 text-decoration: none;
 color: white;
 border-radius: 0.5rem;
-background-color: lightseagreen;
+background-color: #FF8633;
 padding-left: 0.5rem;
 padding-right: 0.5rem;
 padding-top: 0.1rem;
@@ -87,7 +87,7 @@ padding-left: 2rem;
 padding-right: 2rem;
 }
 .foot {
-background-color: lightseagreen;
+background-color: #FF8633;
 border-top-left-radius: 1rem;
 border-top-right-radius: 1rem;
 }
