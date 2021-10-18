@@ -1,19 +1,19 @@
 #head {
     text-align: center;
-    padding-top: 2rem;
+    padding-top: .5rem;
     color: white;
-    font-size: 300%;
+    font-size: 200%;
 }
 
 #nav-bar {
     text-align: center;
-    padding-bottom: 2rem;
+    padding-bottom: .5rem;
     display: flex;
     justify-content: center;
 }
 #nav {
     display: inline;
-    padding: 1rem 5rem;
+    padding: .5rem 2rem;
     border: 2px solid white;
 }
 .navi {
