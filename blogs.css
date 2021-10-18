@@ -5,11 +5,11 @@
     font-size: 300%;
 }
 h1 {
-    font-family: 'Nerko One', cursive;
+    /* font-family: 'Nerko One', cursive; */
 }
 h2 {
 
-    font-family: 'Nerko One', cursive;   
+    /* font-family: 'Nerko One', cursive;    */
 }
 #nav-bar {
     text-align: center;
@@ -95,4 +95,5 @@ border-top-right-radius: 1rem;
 padding-left: 4rem;
 padding-top: 3rem;
 color: white;
+text-align: center;
 }
