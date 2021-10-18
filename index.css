@@ -1,4 +1,4 @@
-@import url(@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+
 
 :root {
     --primary-color: purple;
@@ -9,21 +9,19 @@
     padding-top: 2rem;
     color: white;
     font-size: 300%;
+   
 }
-h1 {
-    /* font-family: 'Nerko One', cursive; */
-}
-h2 {
 
-    /* font-family: 'Nerko One', cursive;    */
-}
 #nav-bar {
     text-align: center;
-    padding-bottom: 1rem;
-}
+    padding-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+    }
 #nav {
     display: inline;
     padding: 1rem 5rem;
+    border: 2px solid white;
 }
 .navi {
     text-decoration: none;
@@ -35,7 +33,9 @@ h2 {
     font-size: 130%;
 }
 .upper {
-    background-color: #A5FF33;
+    background-color: #FF68BB;
+    border-bottom-right-radius: 50rem;
+    border-bottom-left-radius: 50rem;
 }
 .img-container {
     text-align: center;
@@ -49,13 +49,13 @@ h2 {
         padding-bottom: 5rem;
 }
 .head2 {
-    color: #A5FF33;
+    color: #FF68BB;
 }
 .tab2 {
     text-decoration: none;
     color: white;
     border-radius: 0.5rem;
-    background-color: #A5FF33;
+    background-color: #FF68BB;
     padding-left: 0.5rem;
     padding-right: 0.5rem;
     padding-top: 0.1rem;
@@ -86,16 +86,18 @@ h2 {
     text-align: center;
     
     padding-bottom: 4rem;
+    
 }
 #foot2 {
     display: inline;
     padding-left: 2rem;
     padding-right: 2rem;
+    border: 2px solid white;
 }
 .foot {
-    background-color: #A5FF33;
-    border-top-left-radius: 1rem;
-    border-top-right-radius: 1rem;
+    background-color: #FF68BB;
+    border-top-left-radius: 50rem;
+    border-top-right-radius: 50rem;
 }
 .footer1 {
     padding-left: 4rem;

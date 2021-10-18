@@ -4,20 +4,17 @@
     color: white;
     font-size: 300%;
 }
-h1 {
-    /* font-family: 'Nerko One', cursive; */
-}
-h2 {
 
-    /* font-family: 'Nerko One', cursive;    */
-}
 #nav-bar {
     text-align: center;
-    padding-bottom: 1rem;
+    padding-bottom: 2rem;
+    display: flex;
+    justify-content: center;
 }
 #nav {
     display: inline;
     padding: 1rem 5rem;
+    border: 2px solid white;
 }
 .navi {
     text-decoration: none;
@@ -29,7 +26,9 @@ h2 {
     font-size: 130%;
 }
 .upper {
-    background-color: #FCFF33;
+    background-color: #6CC417;
+    border-bottom-right-radius: 50rem;
+    border-bottom-left-radius: 50rem;
 }
 .head { font-weight: bold;
     color: grey;
@@ -38,7 +37,7 @@ h2 {
     padding-bottom: 5rem;
 }
 .head2 {
-color: #FCFF33;
+color: #6CC417;
 }
 
     .section3 {
@@ -61,7 +60,7 @@ color: #FCFF33;
     text-decoration: none;
     color: white;
     border-radius: 0.5rem;
-    background-color: #FCFF33;
+    background-color: #6CC417;
     padding-left: 0.5rem;
     padding-right: 0.5rem;
     padding-top: 0.1rem;
@@ -81,11 +80,12 @@ color: #FCFF33;
     display: inline;
     padding-left: 2rem;
     padding-right: 2rem;
+    border: 2px solid white;
     }
     .foot {
-    background-color: #FCFF33;
-    border-top-left-radius: 1rem;
-    border-top-right-radius: 1rem;
+    background-color: #6CC417;
+    border-top-left-radius: 50rem;
+    border-top-right-radius: 50rem;
     }
     .footer1 {
     padding-left: 4rem;

@@ -6,20 +6,17 @@
             color: white;
             font-size: 300%;
         }
-        h1 {
-            /* font-family: 'Nerko One', cursive; */
-        }
-        h2 {
-        
-            /* font-family: 'Nerko One', cursive;    */
-        }
+
         #nav-bar {
             text-align: center;
-            padding-bottom: 1rem;
+            padding-bottom: 2rem;
+    display: flex;
+    justify-content: center;
         }
         #nav {
             display: inline;
             padding: 1rem 5rem;
+            border: 2px solid white;
         }
         .navi {
             text-decoration: none;
@@ -32,6 +29,8 @@
         }
         .upper {
             background-color: lightseagreen;
+            border-bottom-right-radius: 50rem;
+            border-bottom-left-radius: 50rem;
         }
         .head { font-weight: bold;
             color: grey;
@@ -98,11 +97,12 @@
         display: inline;
         padding-left: 2rem;
         padding-right: 2rem;
+        border: 2px solid white;
     }
     .foot {
         background-color: lightseagreen;
-        border-top-left-radius: 1rem;
-        border-top-right-radius: 1rem;
+        border-top-left-radius: 50rem;
+        border-top-right-radius: 50rem;
     }
     .footer1 {
         padding-left: 4rem;

@@ -1,35 +1,33 @@
 #head {
     text-align: center;
     padding-top: 2rem;
-    color: white;
+    color: black;
     font-size: 300%;
-}
-h1 {
-    /* font-family: 'Nerko One', cursive; */
-}
-h2 {
-
-    /* font-family: 'Nerko One', cursive;    */
 }
 #nav-bar {
     text-align: center;
-    padding-bottom: 1rem;
+    padding-bottom: 2rem;
+    display: flex;
+    justify-content: center;
 }
 #nav {
     display: inline;
     padding: 1rem 5rem;
+    border: 2px solid white;
 }
 .navi {
     text-decoration: none;
-    color: white;
+    color: black;
 }
 .nav2 {
     text-decoration: none;
-    color: white;
+    color: black;
     font-size: 130%;
 }
 .upper {
-    background-color: #33FFFF;
+    background-color: #0AFFFF;
+    border-bottom-right-radius: 50rem;
+    border-bottom-left-radius: 50rem;
 }
 .head { font-weight: bold;
     color: grey;
@@ -38,7 +36,7 @@ h2 {
     padding-bottom: 5rem;
 }
 .head2 {
-color: lightseagreen;
+color: 0AFFFF;
 }
 
     .section3 {
@@ -59,9 +57,9 @@ color: lightseagreen;
     }
     .tab2 {
     text-decoration: none;
-    color: white;
+    color: black;
     border-radius: 0.5rem;
-    background-color: #33FFFF;
+    background-color: #0AFFFF;
     padding-left: 0.5rem;
     padding-right: 0.5rem;
     padding-top: 0.1rem;
@@ -70,7 +68,7 @@ color: lightseagreen;
     
     .footer-1{
     text-decoration: none;
-    color: white;
+    color: black;
     }
     .footer2 {
     text-align: center;
@@ -81,15 +79,16 @@ color: lightseagreen;
     display: inline;
     padding-left: 2rem;
     padding-right: 2rem;
+    border: 2px solid white;
     }
     .foot {
-    background-color: #33FFFF;
-    border-top-left-radius: 1rem;
-    border-top-right-radius: 1rem;
+    background-color: #0AFFFF;
+    border-top-left-radius: 50rem;
+    border-top-right-radius: 50rem;
     }
     .footer1 {
     padding-left: 4rem;
     padding-top: 3rem;
-    color: white;
+    color: black;
     text-align: center;
     }
