@@ -36,6 +36,8 @@
     background-color: #FF68BB;
     border-bottom-right-radius: 50rem;
     border-bottom-left-radius: 50rem;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 .img-container {
     text-align: center;
